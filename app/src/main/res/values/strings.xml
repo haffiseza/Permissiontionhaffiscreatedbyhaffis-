@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PermissionBinarChap5CreatedbyHaffis</string>
+    <string name="image_from_url">image from url</string>
+    <string name="show_image">show image</string>
+    <string name="next">Next</string>
+</resources>
